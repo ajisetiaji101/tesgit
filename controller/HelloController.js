@@ -1,6 +1,6 @@
 class HelloController {
   static async getHello(req, res) {
-    res.status(200).json({ data: "Hello World" });
+    res.status(200).json({ data: "Hello World Santui" });
   }
 }
 
